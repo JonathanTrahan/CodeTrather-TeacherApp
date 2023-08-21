@@ -1,0 +1,17 @@
+C:\Users\jonet\Downloads\CodeTratherTeacher-main\CodeTratherTeacher-main\CodeTratherTeacher\CodeTratherTeacher\bin\Debug\net6.0-windows\CodeTratherTeacher.exe
+C:\Users\jonet\Downloads\CodeTratherTeacher-main\CodeTratherTeacher-main\CodeTratherTeacher\CodeTratherTeacher\bin\Debug\net6.0-windows\CodeTratherTeacher.deps.json
+C:\Users\jonet\Downloads\CodeTratherTeacher-main\CodeTratherTeacher-main\CodeTratherTeacher\CodeTratherTeacher\bin\Debug\net6.0-windows\CodeTratherTeacher.runtimeconfig.json
+C:\Users\jonet\Downloads\CodeTratherTeacher-main\CodeTratherTeacher-main\CodeTratherTeacher\CodeTratherTeacher\bin\Debug\net6.0-windows\CodeTratherTeacher.dll
+C:\Users\jonet\Downloads\CodeTratherTeacher-main\CodeTratherTeacher-main\CodeTratherTeacher\CodeTratherTeacher\bin\Debug\net6.0-windows\CodeTratherTeacher.pdb
+C:\Users\jonet\Downloads\CodeTratherTeacher-main\CodeTratherTeacher-main\CodeTratherTeacher\CodeTratherTeacher\obj\Debug\net6.0-windows\CodeTratherTeacher.csproj.AssemblyReference.cache
+C:\Users\jonet\Downloads\CodeTratherTeacher-main\CodeTratherTeacher-main\CodeTratherTeacher\CodeTratherTeacher\obj\Debug\net6.0-windows\CodeTratherTeacher.Teacher_App.resources
+C:\Users\jonet\Downloads\CodeTratherTeacher-main\CodeTratherTeacher-main\CodeTratherTeacher\CodeTratherTeacher\obj\Debug\net6.0-windows\CodeTratherTeacher.csproj.GenerateResource.cache
+C:\Users\jonet\Downloads\CodeTratherTeacher-main\CodeTratherTeacher-main\CodeTratherTeacher\CodeTratherTeacher\obj\Debug\net6.0-windows\CodeTratherTeacher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonet\Downloads\CodeTratherTeacher-main\CodeTratherTeacher-main\CodeTratherTeacher\CodeTratherTeacher\obj\Debug\net6.0-windows\CodeTratherTeacher.AssemblyInfoInputs.cache
+C:\Users\jonet\Downloads\CodeTratherTeacher-main\CodeTratherTeacher-main\CodeTratherTeacher\CodeTratherTeacher\obj\Debug\net6.0-windows\CodeTratherTeacher.AssemblyInfo.cs
+C:\Users\jonet\Downloads\CodeTratherTeacher-main\CodeTratherTeacher-main\CodeTratherTeacher\CodeTratherTeacher\obj\Debug\net6.0-windows\CodeTratherTeacher.csproj.CoreCompileInputs.cache
+C:\Users\jonet\Downloads\CodeTratherTeacher-main\CodeTratherTeacher-main\CodeTratherTeacher\CodeTratherTeacher\obj\Debug\net6.0-windows\CodeTratherTeacher.dll
+C:\Users\jonet\Downloads\CodeTratherTeacher-main\CodeTratherTeacher-main\CodeTratherTeacher\CodeTratherTeacher\obj\Debug\net6.0-windows\refint\CodeTratherTeacher.dll
+C:\Users\jonet\Downloads\CodeTratherTeacher-main\CodeTratherTeacher-main\CodeTratherTeacher\CodeTratherTeacher\obj\Debug\net6.0-windows\CodeTratherTeacher.pdb
+C:\Users\jonet\Downloads\CodeTratherTeacher-main\CodeTratherTeacher-main\CodeTratherTeacher\CodeTratherTeacher\obj\Debug\net6.0-windows\CodeTratherTeacher.genruntimeconfig.cache
+C:\Users\jonet\Downloads\CodeTratherTeacher-main\CodeTratherTeacher-main\CodeTratherTeacher\CodeTratherTeacher\obj\Debug\net6.0-windows\ref\CodeTratherTeacher.dll
